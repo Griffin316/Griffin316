@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 # Griffin Chesnik
 
-Gchesnik@gmail.com •
+Gchesnik@gmail.com
 
 ## About Me
 
